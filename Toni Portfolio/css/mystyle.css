@@ -1,0 +1,114 @@
+body{
+	background-image: url(images/bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: 4px solid white;
+	border-radius: 20px;
+	padding: 20px;
+	width: 800px;
+	align-content: center;
+	margin: 100px 500px 100px 500px;
+	font-family: Tahoma;
+	backdrop-filter: blur(20px);
+}
+.title-effect h1{
+	font-size: 30px;
+	text-align: center;
+	margin: 30px;
+	color: black;
+	font-weight: bolder;
+}
+.img img{
+	display: block;
+	margin: auto;
+	border: 3px solid white;
+	border-radius: 50%;
+	width: 20%;
+	margin-top: 50px;
+	padding: 5px;
+}
+.name{
+	margin-top: 30px;
+}
+.name-a h2, a{
+	text-align: center;
+	text-decoration: none;
+	color: black;
+	padding: 5px;
+
+}
+.name-a h2 a:hover{
+	border: 2px solid white;
+	background-color: #FEC7B4;
+	border-radius: 5px;
+}
+.headintro{
+	background: linear-gradient(90deg, #FFF3C7, #FEC7B4, #FC819E);
+	border: 0px;
+	border-radius: 8px;
+	margin: 5px;
+	margin-top: 30px;
+	padding-left: 10px;
+}
+.intro-para{
+	margin: 20px;
+	text-align: justify;
+}
+.eback{
+	background: linear-gradient(90deg, #FFF3C7, #FEC7B4, #FC819E);
+	border: 0px;
+	border-radius: 8px;
+	margin: 5px;
+	margin-top: 30px;
+	padding-left: 10px;
+}
+.eback h4{
+	margin: 15px;
+}
+.eback table{
+	width: 100%;
+	border: 2px solid black;
+	border-collapse: collapse;
+}
+table, th, td{
+	border: 2px solid black;
+	padding: 4px;
+	color: black;
+	margin: auto;
+}
+.exphead{
+	background: linear-gradient(90deg, #FFF3C7, #FEC7B4, #FC819E);
+	border: 0px;
+	border-radius: 8px;
+	margin: 5px;
+	margin-top: 30px;
+	padding-left: 10px;
+}
+}
+.exphead h3{
+	margin: 15px;
+}
+.explist ul li{
+	list-style: square;
+}
+.backhead{
+	background: linear-gradient(90deg, #FFF3C7, #FEC7B4, #FC819E);
+	border: 0px;
+	border-radius: 8px;
+	margin: 5px;
+	margin-top: 30px;
+	padding-left: 10px;
+}
+.backpara{
+	margin: 20px;
+	text-align: justify;
+}
+.apphead{
+	background: linear-gradient(90deg, #FFF3C7, #FEC7B4, #FC819E);
+	border: 0px;
+	border-radius: 8px;
+	margin: 5px;
+	margin-top: 30px;
+	padding-left: 10px;
+}
+}
